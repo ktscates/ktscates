@@ -7,9 +7,7 @@
 
 ## 💡 About Me
 
-I’m a passionate and growth-driven frontend developer with experience in building accessible, scalable, and visually engaging web applications. Currently, I’m training aspiring developers at IGIRE Rwanda, where I also mentor students and contribute to inclusive curriculum design.
-
-From crafting portfolio sites with animated canvases to architecting Angular apps with NgRx, I combine creativity and structure to deliver impact through code.
+I’m a passionate and growth-driven frontend developer with experience in building accessible, scalable, and visually engaging web applications. Currently, I’m training aspiring young women at SheCanCode program, where I also mentor students and contribute to inclusive curriculum design.
 
 ---
 
@@ -105,9 +103,22 @@ St. Lawrence University — *Sep 2014 – Nov 2017*
 **🛠️ Software Development BootCamp**  
 WeCode powered by Moringa School — *Jun 2019 – Nov 2019*
 
-**📜 Additional Certifications**  
-- JavaScript — SoloLearn  
-- English Language Program — Riviera High School (2010)
+## 🏅 Certifications & Training
+
+- 📜 **Training Certificate** — *AmaliTech (Jan 2025)*  
+  *Angular Development: RxJS, NgRx, Unit Testing, and Performance Optimization*
+
+- 🧑‍💻 **Internship Certificate** — *Awesomity Lab (Apr 2020)*  
+  *Completed full-time internship focusing on React, Node.js, and PostgreSQL*
+
+- 🧑‍💻 **Internship Certificate** — *Code of Africa (Apr 2020)*  
+  *Completed remote internship with team communication and async collaboration tools*
+
+- 🎓 **Certificate of Completion** — *WeCode Bootcamp (2019)*  
+  *Specialization in Android Development — powered by Moringa School*
+
+- 📄 **IELTS English Certification** — *2018*  
+  *International English Language Testing System*
 
 ---
 
@@ -115,16 +126,13 @@ WeCode powered by Moringa School — *Jun 2019 – Nov 2019*
 
 - English — Fluent 🇬🇧  
 - French — Proficient 🇫🇷
+- Kirundi — Native 🇧🇮
 
 ---
 
 ## 💬 Let’s Connect!
 
 I enjoy collaborating on web projects, mentoring aspiring devs, and contributing to inclusive tech communities. Feel free to connect or reach out!
-
-📫 Email: **cates2506@gmail.com**  
-🌐 Portfolio: [ktscates.netlify.app](https://ktscates.netlify.app)  
-🔗 LinkedIn / GitHub links coming soon...
 
 ---
 
