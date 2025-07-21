@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-I’m a passionate and growth-driven frontend developer with experience in building accessible, scalable, and visually engaging web applications. Currently, I’m training aspiring young women at SheCanCode program, where I also mentor students and contribute to inclusive curriculum design.
+I craft responsive, accessible, and performant apps using modern tools like React.js, Next.js, Angular, TypeScript, and TailwindCSS. I bring clean code, smooth user experiences, and a passion for building scalable solutions across web and mobile platforms.
 
 ---
 
