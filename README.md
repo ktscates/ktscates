@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cates Nsengiyumva
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&random=false&width=600&height=45&lines=Frontend+Developer+%7C+Mentor+%26+Trainer+%7C+Kigali%2C+Rwanda" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&random=false&width=700&height=45&lines=Frontend+Developer+%7C+Mentor+%26+Trainer+%7C+Kigali%2C+Rwanda" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,11 +24,6 @@
 ## 💡 About Me
 
 I craft responsive, accessible, and performant apps using modern tools like React.js, Next.js, Angular, TypeScript, and TailwindCSS. I bring clean code, smooth user experiences, and a passion for building scalable solutions across web and mobile platforms.
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ktscates&show_icons=true&theme=radical&hide_border=true" alt="Cates's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktscates&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
@@ -240,14 +235,6 @@ WeCode powered by Moringa School — *Jun 2019 – Nov 2019*
   <img src="https://img.shields.io/badge/English-Fluent-36A2EB?style=for-the-badge&logoColor=white" alt="English" />
   <img src="https://img.shields.io/badge/French-Proficient-1258A7?style=for-the-badge&logoColor=white" alt="French" />
   <img src="https://img.shields.io/badge/Kirundi-Native-2C5530?style=for-the-badge&logoColor=white" alt="Kirundi" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktscates&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
