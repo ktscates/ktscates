@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cates Nsengiyumva
 
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&random=false&width=435&height=45&lines=%F0%9F%92%BB+Frontend+Developer+%7C+%F0%9F%A4%BB+Mentor+%26+Trainer+%7C+%F0%9F%8C%8D+Kigali%2C+Rwanda" alt="Typing SVG" />
 </div>
 
