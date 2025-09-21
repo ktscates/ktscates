@@ -24,8 +24,8 @@
 ## 💡 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ktscates&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6f42c1&text_color=ffffff&border_color=30363d" alt="Cates's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktscates&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6f42c1&text_color=ffffff&border_color=30363d" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ktscates&show_icons=true&theme=radical&hide_border=true" alt="Cates's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktscates&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 I craft responsive, accessible, and performant apps using modern tools like React.js, Next.js, Angular, TypeScript, and TailwindCSS. I bring clean code, smooth user experiences, and a passion for building scalable solutions across web and mobile platforms.
@@ -84,7 +84,13 @@ I craft responsive, accessible, and performant apps using modern tools like Reac
 *A personal portfolio showcasing my skills, projects, and blog posts. Built with modern web technologies for a responsive design.*  
 
 **Tech Stack:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![EmailJS](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logoColor=white" alt="EmailJS" />
+</div>
 
 ---
 
@@ -93,7 +99,14 @@ I craft responsive, accessible, and performant apps using modern tools like Reac
 *A comprehensive web application for managing cohorts, courses, and trainee data, including registration, attendance tracking, and performance evaluation.*  
 
 **Tech Stack:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![ngRx](https://img.shields.io/badge/ngRx-E84D31?style=for-the-badge&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B71757?style=for-the-badge&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/ngRx-E84D31?style=for-the-badge&logoColor=white" alt="ngRx" />
+  <img src="https://img.shields.io/badge/RxJS-B71757?style=for-the-badge&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+</div>
 
 ---
 
@@ -102,7 +115,10 @@ I craft responsive, accessible, and performant apps using modern tools like Reac
 *An interactive survey app designed to collect feedback. Features include offline mode, dual-language support, real-time syncing, and a spin-the-wheel game for prizes.*  
 
 **Tech Stack:**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</div>
 
 ---
 
@@ -111,7 +127,13 @@ I craft responsive, accessible, and performant apps using modern tools like Reac
 *Landing page for WAD Pharma showcasing its mission to connect patients, pharmacies, and distributors. Highlights values, team, services, and partners.*  
 
 **Tech Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![EmailJS](https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/EmailJS-000000?style=for-the-badge&logoColor=white" alt="EmailJS" />
+</div>
 
 ---
 
@@ -120,20 +142,25 @@ I craft responsive, accessible, and performant apps using modern tools like Reac
 *Full web application enabling pharmaceutical wholesalers and retailers to connect and distribute products efficiently in Rwanda.*  
 
 **Tech Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flowbite](https://img.shields.io/badge/Flowbite-06B6D4?style=for-the-badge&logoColor=white) ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flowbite-06B6D4?style=for-the-badge&logoColor=white" alt="Flowbite" />
+  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="AWS Amplify" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logoColor=white" alt="Chart.js" />
+</div>
 
 ---
 
 ## 💼 Work Experience
 
-<div align="center">
-  <img src="https://komarev.github.io/waves-svg/svg/waves.svg" alt="Wave separator" />
-</div>
+---
 
 **👩‍🏫 Junior Frontend Trainer** — *IGIRE Rwanda*  
 _Mar 2025 – Present, Kigali, Rwanda_  
 <div align="center">
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </div>
 - Teach HTML, CSS, JavaScript, React, and Next.js through project-based learning  
 - Provide one-on-one mentorship and career guidance  
@@ -142,7 +169,8 @@ _Mar 2025 – Present, Kigali, Rwanda_
 **👩‍💻 Frontend Developer** — *AmaliTech*  
 _Jun 2024 – Jan 2025_  
 <div align="center">
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![ngRx](https://img.shields.io/badge/ngRx-E84D31?style=for-the-badge&logoColor=white)
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/ngRx-E84D31?style=for-the-badge&logoColor=white" alt="ngRx" />
 </div>
 - Specialized in Angular development and state management (RxJS, NgRx)  
 - Focused on writing scalable, maintainable code and unit testing  
@@ -150,7 +178,8 @@ _Jun 2024 – Jan 2025_
 **👩‍💻 Frontend Developer** — *WAD LTD*  
 _Jul 2023 – Jun 2024_  
 <div align="center">
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </div>
 - Built responsive UIs and dashboards for pharma clients  
 - Integrated APIs and improved performance using AWS and Flowbite  
@@ -158,7 +187,8 @@ _Jul 2023 – Jun 2024_
 **👩‍💻 Frontend Developer** — *Asyst Resources LTD*  
 _Jan 2023 – Jun 2023_  
 <div align="center">
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MUI](https://img.shields.io/badge/Material-UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Material-UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </div>
 - Led UI implementation with React, MUI, and TailwindCSS  
 - Mentored interns and maintained code quality
@@ -166,7 +196,8 @@ _Jan 2023 – Jun 2023_
 **👩‍💻 Frontend Developer** — *Octan Group*  
 _Feb 2021 – Aug 2022_  
 <div align="center">
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" />
 </div>
 - Worked on international projects using Next.js, Remix.js  
 - Automated CI/CD workflows with GitHub Actions
@@ -174,7 +205,8 @@ _Feb 2021 – Aug 2022_
 **📱 Android Developer** — *Uplus Mutual Partners*  
 _Jun 2020 – Dec 2020_  
 <div align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </div>
 - Developed mobile apps using Java, Expo, Firebase  
 - Built native and hybrid apps for crowdfunding
@@ -183,9 +215,7 @@ _Jun 2020 – Dec 2020_
 
 ## 🎓 Education & Certifications
 
-<div align="center">
-  <img src="https://komarev.github.io/waves-svg/svg/waves.svg" alt="Wave separator" />
-</div>
+---
 
 ### 🎓 Education
 **Bachelor of Science in Computer Science**  
@@ -217,8 +247,7 @@ WeCode powered by Moringa School — *Jun 2019 – Nov 2019*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktscates&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=6f42c1&fire=6f42c1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ktscates&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktscates&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -238,10 +267,6 @@ WeCode powered by Moringa School — *Jun 2019 – Nov 2019*
   <a href="https://github.com/ktscates">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.github.io/waves-svg/svg/waves.svg" alt="Wave separator" />
 </div>
 
 ---
