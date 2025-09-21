@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cates Nsengiyumva
 
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&random=false&width=1500&height=40&lines=Frontend+Developer+%7C+Mentor+%26+Trainer+%7C+Kigali%2C+Rwanda" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&random=false&width=500&height=40&lines=Frontend+Developer+%7C+Mentor+%26+Trainer+%7C+Kigali%2C+Rwanda" alt="Typing SVG" />
 </div>
 
 <div>
