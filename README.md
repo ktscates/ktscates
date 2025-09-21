@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Cates Nsengiyumva
 
-markdown# 👋 Hi, I'm Cates Nsengiyumva
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&random=false&width=400&height=40&lines=Frontend+Developer+%7C+Mentor+%26+Trainer+%7C+Kigali%2C+Rwanda" alt="Typing SVG" />
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&random=false&width=1500&height=40&lines=Frontend+Developer+%7C+Mentor+%26+Trainer+%7C+Kigali%2C+Rwanda" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div>
   <a href="mailto:cates2506@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
