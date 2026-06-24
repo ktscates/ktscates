@@ -23,7 +23,7 @@
 
 ## 💡 About Me
 
-I craft responsive, accessible, and performant apps using modern tools like React.js, Next.js, Angular, TypeScript, and TailwindCSS. I bring clean code, smooth user experiences, and a passion for building scalable solutions across web and mobile platforms.
+Frontend Engineer with a strong foundation in modern JavaScript and TypeScript ecosystems, specializing in React, Next.js, and Angular. Experienced in building scalable, maintainable, and user-focused applications while adhering to best practices in performance, accessibility, and software quality. Continuously expanding expertise in Java and backend technologies to deliver comprehensive full-stack solutions.
 
 ---
 
